@@ -1,0 +1,31 @@
+! name: Amazon Affiliate Review Spam
+! description: Eliminates low effort Amazon Affiliate link review spam sites.
+! public: false
+! author: Jordan May (jwmay2012)
+! homepage: https://github.com/jwmay2012/goggles
+! issues: https://github.com/jwmay2012/goggles/issues
+$discard,site=bobvila.com
+$discard,site=momjunction.com
+$discard,site=toolsprokit.com
+$discard,site=treehugger.com
+$discard,site=bestreviews.guide
+$discard,site=spy.com
+$discard,site=pinterest.com
+$discard,site=gistgear.com
+$discard,site=thrifter.com
+$discard,site=sturtstreetcellars.com
+$discard,site=amaperfect.com
+$discard,site=bestchoicereviews.org
+$discard,site=homeneedstuffs.com
+$discard,site=msn.com
+$discard,site=closeupcheck.com
+$discard,site=boomsbeat.com
+$discard,site=medcruiseguide.com
+$discard,site=conch-house.com
+$discard,site=topportalreview.com
+!$discard,site=
+!$discard,site=
+!$discard,site=
+!$discard,site=
+!$discard,site=
+!$discard,site=
